@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\bin\Debug\net6.0\Task28_Feb.exe
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\bin\Debug\net6.0\Task28_Feb.deps.json
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\bin\Debug\net6.0\Task28_Feb.runtimeconfig.json
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\bin\Debug\net6.0\Task28_Feb.dll
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\bin\Debug\net6.0\Task28_Feb.pdb
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\Task28_Feb.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\Task28_Feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\Task28_Feb.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\Task28_Feb.AssemblyInfo.cs
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\Task28_Feb.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\Task28_Feb.dll
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\refint\Task28_Feb.dll
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\Task28_Feb.pdb
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\Task28_Feb.genruntimeconfig.cache
+C:\Users\hp\Desktop\Example28Feburary\Task28_Feb\Task28_Feb\obj\Debug\net6.0\ref\Task28_Feb.dll
